@@ -11,7 +11,7 @@ datos de demostración y documentación de las decisiones técnicas.
 
 | Proyecto | Qué demuestra |
 |---|---|
-| _(en publicación progresiva — primer repo: julio 2026)_ | |
+| [brasa-viva](https://github.com/AutomatizacionesBCH/brasa-viva) | App multi-rol (cliente/cocina/delivery/admin) con máquina de estados en Zustand y tests |
 
 ## Stack
 
